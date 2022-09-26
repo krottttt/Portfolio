@@ -1,3 +1,8 @@
-"# Portfolio" 
-"# Portfolio" 
-"# Portfolio" 
+# hse_iad4_2022
+Здесь будут выкладываться материалы семинаров для ИАД4.
+
+- Полезные ссылки
+  - [Anaconda](https://www.anaconda.com/products/individual)
+  - [Stackoverflow](https://stackoverflow.com)
+  - Таблица с оценками
+
