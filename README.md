@@ -1,8 +1,7 @@
-# hse_iad4_2022
-Здесь будут выкладываться материалы семинаров для ИАД4.
+# РџРѕСЂС‚С„РѕР»РёРѕ
 
-- Полезные ссылки
-  - [Anaconda](https://www.anaconda.com/products/individual)
+- РќРµР±РѕР»СЊС€РёРµ РїСЂРѕРµРєС‚С‹ Рё Р·Р°РґР°РЅРёСЏ
+  - [РџР°СЂСЃРµСЂ РјСѓР·С‹РєРё РёР· Р’РљРѕРЅС‚Р°РєС‚Рµ РІ РЇРЅРґРµРєСЃ РњСѓР·С‹РєСѓ](https://github.com/krottttt/Portfolio/blob/9d343d536196452682d6eca729eed647e10b14ce/music_parser_vk_to_yandex.ipynb)
   - [Stackoverflow](https://stackoverflow.com)
-  - Таблица с оценками
+  - Г’Г ГЎГ«ГЁГ¶Г  Г± Г®Г¶ГҐГ­ГЄГ Г¬ГЁ
 
